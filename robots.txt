@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://railfansday.github.io/semuaartikel57/sitemap.xml
+Sitemap: https://railfansday.github.io/semuaartikel57/feed.xml
+Crawl-delay: 1
